@@ -10,4 +10,4 @@ Used material is PLA with a 0.4 nozzle and 30% infill.
 
 
 
-![](img/mrkII_DES0021.PNG)
+![](img/mrkII_DES0024.PNG)
